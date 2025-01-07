@@ -178,7 +178,7 @@ body, html {
 .landing-page {
   display: flex;
   height: 100vh;
-  background-image: url('images/bac.png'); /* Replace with your image */
+  background-image: url('bac.png'); /* Replace with your image */
   background-size: cover;
   background-position: center;
   justify-content: flex-start; /* Align content to the left */
